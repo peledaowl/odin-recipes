@@ -1,0 +1,1 @@
+In this project I will create a website that displays home page which has an image and three links to three recipes. Those links will open other html files that contain the recipes.
